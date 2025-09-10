@@ -1,0 +1,32 @@
+body{
+  font-family: Arial;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    margin: 20px 490px 20px 490px;
+    padding: 10px;
+}
+
+span{
+  background: lightgray;
+  border: 6px solid lightgray;
+  border-radius: 5px;
+}
+
+.grade{
+  display: grid;
+  grid-template-columns: 50% 50%;
+ 
+}
+
+.item2{
+  margin: 5px;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(15, 5, 34);
+  background-color: rgb(175, 157, 253);
+  border: 10px solid rgb(175, 157, 253);
+  border-radius: 5px;
+  padding: 0px 10px;
+}
